@@ -1,0 +1,52 @@
+* {
+  font-family: Helvetica;
+}
+
+
+body {
+  border:: red;
+  width: 80%;
+  align-self: center;
+  }
+
+
+h1 {
+    color: khaki;
+    font-size: 100px;
+    font-weight: bold;
+  }
+
+
+  h2 {
+    color: white;
+    font-weight: bold;
+    font-size: 32px;
+  }
+
+
+strong {
+  font-size: 20px;
+}
+
+
+.header {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+  text-align: center;
+}
+
+
+h2, .hacksaw_brushes {
+  background-color: mediumspringgreen;
+}
+h2, .art_frames {
+  background-color: lightcoral;
+}
+h2, .finnish_paint {
+  background-color: skyblue;
+}
+
+
+a, #prices {
+  font-weight: bold;
+  color: blue;
+}
